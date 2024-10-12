@@ -93,9 +93,9 @@ def perfection_entropy(n, optimise=True, stop=5):
         if n > np.iinfo(np.int64).max:  # If n exceeds int64 range
             # array_type = object
             raise ValueError(
-                f"Input must be less than {np.iinfo(np.int64).max}.")
+                f"Input must be less than {np.iinfo(np.uint64).max}.")
         else:
-            array_type = np.int64
+            array_type = np.uint64
 
         # If n is perfect, calculate its entropy
         if is_perfect(n):
