@@ -5,9 +5,9 @@ Please see the project_overview.ipynb file for a more detailed overview.
 
 **Key Concepts**
 
-Perfect Numbers: A number whose divisors (excluding itself) sum to the number itself. Examples include 6, 28, 496, and 8128.
+Perfect Number: A number whose divisors (excluding itself) sum to the number itself. Examples include 6, 28, 496, and 8128.
 
-Pseudoperfect Numbers: A broader category where some subset of divisors sums to the number. Perfect numbers are a special case of pseudoperfect numbers.
+Pseudoperfect Number: A broader category where some subset of divisors sums to the number. Perfect numbers are a special case of pseudoperfect numbers.
 
 Perfection Entropy: A measure I created that characterises pseudoperfect numbers based on how some subset of their divisors contribute to their sum.
 
