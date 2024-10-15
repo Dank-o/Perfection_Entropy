@@ -13,14 +13,9 @@ Perfection Entropy: A measure I created that characterises pseudoperfect numbers
 
 **Empirical Findings**
 
-The perfection entropy of odd pseudoperfect numbers is observed to be higher than that of even pseudoperfect numbers.
+The perfection entropy of odd pseudoperfect numbers (bounded below by approximately 2.55) is observed to be higher than that of even pseudoperfect numbers.
 
 Perfect numbers exhibit a converging pattern of entropy values, suggesting potential links between perfection entropy and number classification.
-
-**Conjectures**
-
-The entropy of odd pseudoperfect numbers is bounded below by approximately 2.55.
-The entropy of perfect numbers does not exceed 2.
 
 **Requirements**
 
