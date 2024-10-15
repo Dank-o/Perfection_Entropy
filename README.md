@@ -1,7 +1,7 @@
 **Project Overview**
 
 This project explores the structure of perfect and pseudoperfect numbers as quantified by a notion of entropy defined in terms of the divisors of these numbers. The main goal is to investigate whether entropy provides insights into the existence of odd perfect numbers—a long-standing unsolved problem in mathematics.
-Please see the project_overview.ipynb file for a more detailed overview.
+Please see the detailed_overview.ipynb file for a more detailed overview.
 
 **Key Concepts**
 
