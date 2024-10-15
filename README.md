@@ -20,4 +20,5 @@ Perfect numbers exhibit a converging pattern of entropy values, suggesting poten
 **Requirements**
 
 Python 3.x
+
 Required libraries: matplotlib, numpy, matplotlib, colorcet
