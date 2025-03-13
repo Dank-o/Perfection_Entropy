@@ -1,15 +1,15 @@
-**Project Overview**
+# Project Overview
 
 This project explores the structure of perfect and pseudoperfect numbers as quantified by a notion of entropy defined in terms of the divisors of these numbers. The main goal is to investigate whether entropy provides insights into the existence of odd perfect numbers—a long-standing unsolved problem in mathematics.
 Please see the detailed_overview.ipynb file for a more detailed overview.
 
 **Key Concepts**
 
-Perfect Number: A number whose divisors (excluding itself) sum to the number itself. Examples include 6, 28, 496, and 8128.
+Perfect Number: A number whose divisors (excluding itself) sum to the number itself. For example 28 = 1 + 2 + 4 + 7 + 14. Perfect numbers are a special case of pseudoperfect numbers.
 
-Pseudoperfect Number: A broader category where some subset of divisors sums to the number. Perfect numbers are a special case of pseudoperfect numbers.
+Pseudoperfect Number: A broader category where some subset of divisors sums to the number. e.g, 12 = 1 + 2 + 3 + 6.
 
-Perfection Entropy: A measure I created that characterises a pseudoperfect number based on a subset of the divisors that sum to the number.
+Perfection Entropy: A metric I created that characterises a pseudoperfect number based on a subset of the divisors that sum to the number.
 
 **Empirical Findings**
 
