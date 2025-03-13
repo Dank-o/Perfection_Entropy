@@ -19,12 +19,14 @@ The perfection entropy of odd pseudoperfect numbers is observed to be higher tha
 
 The known perfect numbers exhibit a converging pattern of entropy values, suggesting potential links between perfection entropy and number classification. (Figure 2)
 
-<div style="text-align: center; margin-right: 70px;">
+**Visualisations**
+
+<div style="text-align: center;">
     <img src="perfection_entropies_primitives.png" alt="A chart showing the perfection entropies of the primitive pseudoperfect numbers with their parity and the perfect numbers indicated." style="width: 20cm;">
     <p style="text-align: center;"><em>Figure 1: A chart showing the perfection entropies of the primitive pseudoperfect numbers with their parity and the perfect numbers indicated.</em></p>
 </div>
 
-<div style="text-align: center; margin-right: 70px;">
+<div style="text-align: center;">
     <img src="Perfection_entropies_perfect_only.png" alt="A chart showing the perfection entropies of the first 8 perfect numbers suggesting an asymptotic value of 2." style="width: 20cm;">
     <p style="text-align: center;"><em>Figure 2: A chart showing the perfection entropies of the first 8 perfect numbers suggesting an asymptotic value of 2.</em></p>
 </div
