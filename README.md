@@ -22,18 +22,23 @@ The known perfect numbers exhibit a converging pattern of entropy values, sugges
 **Visualisations**
 
 <div style="text-align: center;">
-    <img src="perfection_entropies_primitives.png" alt="A chart showing the perfection entropies of the primitive pseudoperfect numbers with their parity and the perfect numbers indicated.">
+    <img src="images/perfection_entropies_primitives.png" alt="A chart showing the perfection entropies of the primitive pseudoperfect numbers with their parity and the perfect numbers indicated.">
     <p style="text-align: center;"><em>Figure 1: A chart showing the perfection entropies of the primitive pseudoperfect numbers with their parity and the perfect numbers indicated.</em></p>
 </div>
 
 <div style="text-align: center;">
-    <img src="Perfection_entropies_perfect_only.png" alt="A chart showing the perfection entropies of the first 8 perfect numbers suggesting an asymptotic value of 2.">
+    <img src="images/Perfection_entropies_perfect_only.png" alt="A chart showing the perfection entropies of the first 8 perfect numbers suggesting an asymptotic value of 2.">
     <p style="text-align: center;"><em>Figure 2: A chart showing the perfection entropies of the first 8 perfect numbers suggesting an asymptotic value of 2.</em></p>
 </div
+
+**Running the Analysis: Notebook and Code Packages**
+
+
+The project files include a [notebook](notebooks/perfection_entropies.ipynb) where the perfection entropies can be generated and plotted as shown in the linked images. There is also a [numberdata package](src/numberdata) that loads and saves data and a [numberfun package](src/numberfun) that contains the core functions for calculating entropies and collecting subsets of divisors that add up to a number.
 
 
 **Requirements**
 
-Python 3.x
+Python 3.11
 
-Required libraries: matplotlib, numpy, matplotlib, colorcet
+Required libraries: matplotlib, numpy, matplotlib, colorcet, numba

@@ -1,0 +1,12 @@
+# Ignore experiments directory
+experiments/
+
+# Ignore __pycache__ directory
+__pycache__/
+
+#Ignore env packages
+.venv
+
+# Ignore test files
+test.txt
+tes.json

@@ -1,0 +1,7 @@
+numpy
+matplotlib
+sympy
+numba
+distinctipy
+colorcet
+numba
