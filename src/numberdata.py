@@ -183,7 +183,6 @@ def save_dictionary_data(result, filepath):
 
 def save_list_data(result, filepath):
     """Saves generated values as a .txt file."""
-    print(f"{filepath}.txt")
     with open(f"{filepath}.txt", 'a') as file:
         file.write(f"{result[0]}, {result[1]}\n")
 
