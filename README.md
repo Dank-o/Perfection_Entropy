@@ -9,7 +9,7 @@ Perfect Number: A number whose divisors (excluding itself) sum to the number its
 
 Pseudoperfect Number: A broader category where some subset of divisors sums to the number. e.g, 12 = 1 + 2 + 3 + 6.
 
-Primitive Pseudoperfect Number: A pseudoperfect number that is not divisible by other pseudoperfect numbers.
+Primitive Pseudoperfect Number: A pseudoperfect number that is not divisible by other pseudoperfect numbers.  I show a plot for these instead of the pseudoperfect numbers as the non-primitive numbers are redundant and clutter the visualisation.
 
 Perfection Entropy: A metric I created that characterises a pseudoperfect number based on a subset of the divisors that sum to the number.
 
