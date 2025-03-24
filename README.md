@@ -34,7 +34,7 @@ The known perfect numbers exhibit a converging pattern of entropy values, sugges
 **Running the Analysis: Notebook and Code Packages**
 
 
-The project files include a [notebook](notebooks/perfection_entropies.ipynb) where the perfection entropies can be generated and plotted as shown in the linked images. There is also a [numberdata package](src/numberdata) that loads and saves data and a [numberfun package](src/numberfun) that contains the core functions for calculating entropies and collecting subsets of divisors that add up to a number.
+The project files include a [notebook](https://github.com/Dank-o/Perfection_Entropy/blob/main/src/numberdata.py) where the perfection entropies can be generated and plotted as shown in the linked images. There is also a [numberdata package](src/numberdata) that loads and saves data and a [numberfun package](https://github.com/Dank-o/Perfection_Entropy/blob/main/src/numberfun.py) that contains the core functions for calculating entropies and collecting subsets of divisors that add up to a number.
 
 
 **Requirements**
