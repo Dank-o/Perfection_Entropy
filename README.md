@@ -1,7 +1,7 @@
 # Project Overview
 
 This project explores the structure of perfect and pseudoperfect numbers as quantified by novel definition of entropy that is defined in terms of the divisors of these numbers. The main goal is to investigate whether entropy provides insights into the existence of odd perfect numbers—a long-standing unsolved problem in mathematics.
-[A more detailed overview can be found here](https://github.com/Dank-o/Perfection_Entropy/blob/main/detailed_overview.ipynb).
+[A more detailed overview can be found here](https://github.com/Dank-o/Perfection_Entropy/blob/main/notebooks/detailed_overview.ipynb).
 
 **Key Concepts**
 
@@ -9,7 +9,7 @@ Perfect Number: A number whose divisors (excluding itself) sum to the number its
 
 Pseudoperfect Number: A broader category where some subset of divisors sums to the number. e.g, 12 = 1 + 2 + 3 + 6.
 
-Primitive Pseudoperfect Number: A pseudoperfect number that is not divisible by other pseudoperfect numbers.  I show a plot for these instead of the pseudoperfect numbers as the non-primitive numbers are redundant and clutter the visualisation.
+Primitive Pseudoperfect Number: A pseudoperfect number that is not divisible by other pseudoperfect numbers.  I show a plot for these here instead of the pseudoperfect numbers as the non-primitive numbers are redundant and clutter the visualisation (however the visualisation for all the data is in the [detailed overview](https://github.com/Dank-o/Perfection_Entropy/blob/main/notebooks/detailed_overview.ipynb).
 
 Perfection Entropy: A metric I created that characterises a pseudoperfect number based on a subset of the divisors that sum to the number.
 
